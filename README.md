@@ -19,7 +19,7 @@ https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Trai
 
 # How to use it :
 
-- install : Python + Tensorflow (preferably GPU version) + opencv.
+- install : Python + Tensorflow (preferably GPU version) + opencv + pyautogui (to be able to move mouse).
 - download the zip file of the repository.
 - download the RCNN model from here : https://drive.google.com/open?id=14RKWjA02cGwntYAwPm42Sw0RltBGzCwh
 - move the downloaded .pb file to the master folder.
