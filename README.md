@@ -7,7 +7,10 @@ from the front camera of my device. Then mapped the coordinates of the detected 
 windows system.
 - This is a demonstration of the result obtained :
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Mehieddine44/Gesture-controlled-system-using-RCNN/blob/master/result%201.PNG)
+![alt text](https://github.com/Mehieddine44/Gesture-controlled-system-using-RCNN/blob/master/result%202.PNG)
+![alt text](https://github.com/Mehieddine44/Gesture-controlled-system-using-RCNN/blob/master/result%203.PNG)
+![alt text](https://github.com/Mehieddine44/Gesture-controlled-system-using-RCNN/blob/master/result%204..PNG)
 
 - in this repository I only provide the final model and the scripts needed to use it. If you want to train a similar model, you 
 should follow this great tutorial by EdjeElectronics :
