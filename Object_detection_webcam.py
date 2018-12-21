@@ -94,7 +94,7 @@ while(True):
         line_thickness=8,
         min_score_thresh=0.95)
     
-     ###########
+     ########### Uncomment this block to be able to move mouse
     '''
     my_now=boxes[0][0][0]
     mx_now=boxes[0][0][1]
@@ -108,10 +108,11 @@ while(True):
      ###########
 
     # All the results have been drawn on the frame, so it's time to display it.
+    # uncomment the following line if you want to see the output asa large frame.
     #cv2.resize(frame, (1000,700))
     out.write(frame)
     cv2.imshow('Object detector', frame)
-    #######
+    ####### past coordiantes
     my_past=boxes[0][0][0]
     mx_past=boxes[0][0][1]
     #######
