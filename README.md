@@ -16,3 +16,11 @@ windows system.
 should follow this great tutorial by EdjeElectronics :
 
 https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10
+
+# How to use it :
+
+- install : Python + Tensorflow (preferably GPU version) + opencv.
+- download the zip file of the repository.
+- download the RCNN model from here : https://drive.google.com/open?id=14RKWjA02cGwntYAwPm42Sw0RltBGzCwh
+- move the downloaded .pb file to the master folder.
+- run the object_detection_webcam.py script.
