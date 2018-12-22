@@ -1,6 +1,6 @@
 # Gesture-controlled-system-using-RCNN
 
-- This project is a humble approach to attempt to control operating systems using convolutional neural networks.
+- This project is an attempt to control operating systems using convolutional neural networks.
 To acheive this goal, I used Tensorflows's object detection API which provides pre trained models from which you can 
 select one to perform transfer learning on. I trained an RCNN model to detect human fingers in a live video feed 
 from the front camera of my device. Then mapped the coordinates of the detected finger to control the mouse on my
